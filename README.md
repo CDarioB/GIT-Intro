@@ -44,7 +44,7 @@ Supongamos que tres personas trabajan en el mismo proyecto:
 <br><br>
 
 > [!IMPORTANT]:
-> **✔ Resumen:** Git permite controlar versiones de archivos, mantener historial de cambios y facilitar el trabajo colaborativo en proyectos de software.
+> Git permite controlar versiones de archivos, mantener historial de cambios y facilitar el trabajo colaborativo en proyectos de software.
 
 
 
