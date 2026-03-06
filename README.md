@@ -1,8 +1,8 @@
 # GIT - Introdución
-
-**Git es un sistema de control de versiones distribuido que permite registrar y gestionar los cambios realizados en archivos a lo largo del tiempo.**
-
-Su **objetivo principal** es **coordinar el trabajo entre las personas que participan en un proyecto**, permitiendoles modificar los mismos archivos sin perder el historial de cambios.
+> [!IMPORTANT]
+> **Git es un sistema de control de versiones distribuido que permite registrar y gestionar los cambios realizados en archivos a lo largo del tiempo.**
+>
+> Su **objetivo principal** es **coordinar el trabajo entre las personas que participan en un proyecto**, permitiendoles modificar los mismos archivos sin perder el historial de cambios.
 
 ### Características principales
 
