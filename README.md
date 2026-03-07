@@ -60,17 +60,17 @@ Almacenar tu código en un "repositorio" en GitHub te permite lo siguiente:
 
 # Referencias:
 
-[^1]: GitHub Docs: [about-github-and-git](https://docs.github.com/es/get-started/start-your-journey/about-github-and-git).
+1. GitHub Docs: [about-github-and-git](https://docs.github.com/es/get-started/start-your-journey/about-github-and-git).
 
-[^2]: GitHub Docs: [about-git](https://docs.github.com/en/get-started/using-git/about-git).
+2. GitHub Docs: [about-git](https://docs.github.com/en/get-started/using-git/about-git).
 
-[^3]: Git – documentación oficial: [git-scm](https://git-scm.com/doc)
+3. Git – documentación oficial: [git-scm](https://git-scm.com/doc)
 
 
-[^4]: Libro oficial:
+4. Libro oficial:
 **Pro Git – Scott Chacon y Ben Straub
 Disponible gratis online**:
 [git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 
 
-[^5]: Atlassian Git Tutorials: [what-is-git](https://www.atlassian.com/git/tutorials/what-is-git)
+5. Atlassian Git Tutorials: [what-is-git](https://www.atlassian.com/git/tutorials/what-is-git)
