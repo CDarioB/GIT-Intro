@@ -54,7 +54,27 @@ Almacenar tu código en un "repositorio" en GitHub te permite lo siguiente:
 * Seguir y administrar los cambios en el código a lo largo del tiempo.
 * Dejar que otros usuarios revisen el código y realicen sugerencias para mejorarlo.
 * Colaborar en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores antes de que esté listo para integrarlos.
-* **El trabajo colaborativo, una de las características fundamentales de GitHub, es posible gracias al software de código abierto Git, en el que se basa GitHub.**
+
+> [!IMPORTANT]
+> **El trabajo colaborativo, una de las características fundamentales de GitHub, es posible gracias al software de código abierto Git, en el que se basa GitHub.**
+
+## **¿Cómo funcionan Git y GitHub de manera conjunta?**
+
+Al cargar archivos en GitHub, **los almacenarás en un "repositorio de Git"**. Esto significa que al realizar cambios (o "confirmaciones/commit") en los archivos de GitHub, Git se iniciará automáticamente para realizar el seguimiento de los cambios y administrarlos.
+
+Hay muchas acciones relacionadas con Git que puedes completar en GitHub directamente en el navegador, como crear un repositorio de Git, crear ramas y cargar y editar archivos.
+
+Pero la mayoría de los usuarios trabajan en sus archivos localmente (en su propio ordenador), luego sincronizan continuamente estos cambios locales y todos los datos de Git relacionados, con el repositorio central "remoto" en GitHub. Hay muchas herramientas que puede usar para hacerlo, como GitHub Escritorio.
+
+Cuando empieces a colaborar con otros y todos neseciten trabajar en el mismo repositorio al mismo tiempo, se hará lo siguiente continuamente:
+
+* Extraer todos los cambios más recientes realizados por los colaboradores del repositorio remoto en GitHub.
+
+* Insertar sus propios cambios al mismo repositorio remoto en GitHub.
+
+> [!IMPORTANT]
+> **Git determina cómo combinar inteligentemente este flujo de cambios.**
+> **GitHub te ayuda a administrarlo mediante características como las "solicitudes de cambios".**
 
 <br><br><br>
 
